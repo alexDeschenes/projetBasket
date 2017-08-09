@@ -1,0 +1,17 @@
+{
+  "name": "projetbasket",
+  "version": "1.0.0",
+  "description": "projet pour le basket",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "express": "^4.15.3",
+    "jquery": "^3.2.1",
+    "mysql": "^2.14.1"
+  },
+  "author": "alexandre",
+  "license": "ISC"
+}

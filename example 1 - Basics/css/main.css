@@ -1,0 +1,68 @@
+#oneTop{
+	position:absolute;
+	left:48%;
+	top:38%;
+}
+#oneBottom{
+	position:absolute;
+	left:48%;
+	top:62%;
+}
+#twoTop{
+	position:absolute;
+	left:40%;
+	top:34%;
+}
+#threetop{
+	position:absolute;
+	left:57%;
+	top:34%;
+}
+
+#fiveTop{
+	position:absolute;
+	left:57%;
+	top:18%;
+}
+#fourTop{
+	position:absolute;
+	left:40%;
+	top:18%;
+}
+#twoBottom{
+	position:absolute;
+	left:40%;
+	top:66%;
+}
+#threeBottom{
+	position:absolute;
+	left:57%;
+	top:66%;
+}
+
+#fiveBottom{
+	position:absolute;
+	left:57%;
+	top:82%;
+}
+#fourBottom{
+	position:absolute;
+	left:40%;
+	top:82%;
+}
+.dropzone{
+	height:20px;
+	width:100px;
+	border:2px solid red;
+}
+.Bench{
+	height:20px;
+	width:100px;
+	border:2px solid red;
+	margin-top:10px;
+}
+#leBench {
+	position:absolute;
+	left:63%;
+	top:45%;
+}
